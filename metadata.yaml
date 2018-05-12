@@ -1,0 +1,30 @@
+_repo: The-History-of-Emily-Montague_16300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooke, Frances
+    aliases:
+    - Brookes, Mrs. (Frances)
+    - Singleton, Mary
+    - Brooke, Frances Moore
+    deathdate: 1789
+    gutenberg_agent_id: '6606'
+    url: http://www.gutenberg.org/2009/agents/6606
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Brooke
+description: ''
+gutenberg_issued: '2005-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Québec) -- History -- Fiction'
+- !lcc 'PR'
+title: The History of Emily Montague
+url: http://www.gutenberg.org/ebooks/16300
